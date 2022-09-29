@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Level One</title>
+</head>
+<body>
+    <h1> Debugging: Level One /h1>
+        <p>The first step to debugging html would be to 
+            correct the formatting to improve readability.</p>
+            <ul> What to do <li><h2>Make a list</h2> <li><h2>I'm writing random stuff
+                but whatever<li> 
+            <p>Now the html code is all debugged. Congratulations. You are so smart.</p>
+</body>
+</html>
